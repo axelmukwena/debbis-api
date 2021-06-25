@@ -1,0 +1,4 @@
+biosppy~=0.7.2
+numpy~=1.21.0
+Flask~=2.0.1
+scipy~=1.7.0
